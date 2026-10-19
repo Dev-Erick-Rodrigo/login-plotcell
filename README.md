@@ -2,7 +2,7 @@
 
 Tela de login com efeito de vidro (glassmorphism), feita para estudar HTML e CSS.
 
-🔗 **Ver ao vivo:** https://quiloren.github.io/login-plotcell/
+🔗 **Ver ao vivo:** https://Dev-Erick-Rodrigo.github.io/login-plotcell/
 
 ## O que tem na página
 
