@@ -14,7 +14,7 @@ body {
   align-items: center;
   min-height: 100vh;
   padding: 16px;
-  background: url('../img/fundo-login.png');
+  background: url('fundo-login.png');
   background-size: cover;
   background-position: center;
 }
